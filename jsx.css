@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 200;
+    margin-top: 200px;
+    background-color: rgb(213, 217, 221);
+}
+.box {
+    height: 350px;
+    width: 300px;
+    text-align: center; 
+    border-radius: 25px;
+    margin: 25px;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: rgba(113, 98, 98, 0.3) 0px 19px 38px, rgba(105, 84, 84, 0.22) 0px 15px 12px;
+}
+#roots {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 100px;
+}
+h1 {
+    font-size: 40px;
+    margin-bottom: 50px;
+    color: rgb(238, 120, 120);
+}
+ul {
+    background-color: rgb(247, 194, 247);
+    margin: 60px;
+    margin-top: 20px;
+    margin-left: 70px;
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+    border-radius: 20px;
+    color: rgb(146, 15, 15);
+    box-shadow: rgba(113, 98, 98, 0.3) 0px 19px 38px, rgba(105, 84, 84, 0.22) 0px 15px 12px;
+}
+li {
+    margin: 10px;
+    margin-left: 2px;
+    margin-right: 100px;
+}
